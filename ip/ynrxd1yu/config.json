@@ -4437,11 +4437,18 @@
     },
     "4_dy": {
       "time": 1777138624389
+    },
+    "1_px": {
+      "time": 1777139345245,
+      "count": 10
+    },
+    "1_dy": {
+      "time": 1777139346532
     }
   },
   "privateUuid": "88c2a4fd-2f64-4917-9ab6-ff0c91497fdc",
   "privateDomain": "real-quality.pages.dev",
-  "privatePath": "/?ed=2560",
+  "privatePath": "/?ed=2048",
   "adaptiveApi": "",
   "scanSettings": {
     "sourceV4": true,
@@ -4453,5 +4460,5 @@
     "threads": "16",
     "connTimeout": "500"
   },
-  "exportTime": 1777138697781
+  "exportTime": 1777139882785
 }
